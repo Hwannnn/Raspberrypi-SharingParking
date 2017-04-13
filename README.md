@@ -1,4 +1,7 @@
 # Raspberrypi-IoT Project
+
+2016 / second semester / Capstone Design project
+
 SharingParking's raspberrypi3 source code
 
 
